@@ -1,0 +1,43 @@
+body{
+  background:#ff0000;
+  font-family:"Comic Sans MS";
+  color:#ffffff;
+}
+
+h1{
+  color:#ffffff;
+  font-family:"Comic Sans MS";
+  font-size:40px;
+}
+p{
+  font-size:20px;
+}
+img{
+  height:200px;
+  margin-right:auto;
+  margin-left:auto;
+}
+.pokes{
+  background-color:#595959;
+  width:33%;
+  margin-right:auto;
+  margin-left:auto;
+  border-color:#ffffff;
+  border-style:solid;
+  border-width:5px;
+  border-radius:7px;
+  margin-top:20px;
+  padding:10px;
+  height:auto;
+}
+.btn{
+  color:white;
+  background-color:#595959;
+  padding:10px;
+  border-width:5px;
+  border-radius:7px;
+  font-family:"Comic Sans MS";
+}
+.pokemon{
+  font-size:20px;
+}
